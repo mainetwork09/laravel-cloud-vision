@@ -44,6 +44,9 @@
 
     .content {
       text-align: center;
+      border: 1px solid #ddd;
+      padding: 15px;
+      border-radius: 16px;
     }
 
     .title {
