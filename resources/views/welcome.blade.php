@@ -44,6 +44,7 @@
 
     .content {
       text-align: center;
+      border: 1px solid #ddd;
     }
 
     .title {
