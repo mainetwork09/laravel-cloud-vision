@@ -88,7 +88,7 @@
 
     <div class="content">
       <div class="title m-b-md">
-        อัพโหลดผลวิ่ง V.1.1
+        อัพโหลดผลวิ่ง V.1.2
       </div>
 
       <div class="text-center d-none" id="spinter">
